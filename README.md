@@ -50,23 +50,21 @@ El objetivo es:
 ## 📂 Estructura del repositorio
 
 
-📁 proyecto
+
+
+---
+projecte/
 │
 ├── 01_idea_i_abast.md
 ├── 02_model_del_joc.md
-├── 03_entorn_i_prototip.md
-├── 04_proves_i_depuracio.md
-├── 05_millores_i_reflexio_final.md
 │
-├── 📁 diagrames
-│   ├── diagrama_classes.png
-│   └── diagrama_comportament.png
+├── diagrames/
+│ ├── diagrama_classes.png
+│ └── diagrama_comportament.png
 │
-├── 📁 src (carpeta del juego cuando esté acabado)
+├── src/ (carpeta del juego cuando esté acabado)
 │
 └── README.md
-
----
 
 ## 🔄 Proceso de desarrollo
 
