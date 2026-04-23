@@ -53,18 +53,22 @@ El objetivo es:
 
 
 ---
-projecte/
+## 📂 Estructura del repositorio
+
+```text
+proyecto/
 │
 ├── 01_idea_i_abast.md
 ├── 02_model_del_joc.md
 │
 ├── diagrames/
-│ ├── diagrama_classes.png
-│ └── diagrama_comportament.png
+│   ├── diagrama_classes.png
+│   └── diagrama_comportament.png
 │
 ├── src/ (carpeta del juego cuando esté acabado)
 │
 └── README.md
+```
 
 ## 🔄 Proceso de desarrollo
 
