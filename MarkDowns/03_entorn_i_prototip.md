@@ -91,7 +91,7 @@ S’adjunten captures de:
 
 Exemple:
 **Pantalla de Titulo**
-![Pantalla principal](titulo.png)
+![Pantalla principal](img/titulo.png)
 **Menu Pausa**
 ![Menú pausa](img/menu.png)
 ![Menú pausa](img/menu1.png)
