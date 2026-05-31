@@ -47,9 +47,16 @@ El objetivo es:
 
 ---
 
-## 📂 Estructura del repositorio
+## Controles
+
+![alt text](</MarkDowns/img/controles.png>)
+
+## Gameplay
+ - https://drive.google.com/drive/folders/1WtaiL2WnZ57uqdl5xcukR_1VVv5kKkLr?usp=sharing
 
 
+## Autor
+Ivan Carrasco Cerezo.
 
 
 ---
@@ -97,8 +104,7 @@ Documentación en:
 
 ## 🚀 Cómo ejecutar el juego
 
-1. Abrir el proyecto con RPG Maker XP  
-2. Ejecutar desde el editor  
+1. Abrir Archivo Game.exe
 
 ---
 
@@ -119,6 +125,8 @@ La IA se ha utilizado como apoyo para:
 ❌ No finalizado  
 
 ---
+
+
 
 ## ⚠️ Aviso legal
 
